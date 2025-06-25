@@ -1,0 +1,16 @@
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.csproj.AssemblyReference.cache
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.FrmClientes.resources
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.FrmMenu.resources
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.FrmProdutos.resources
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.FrmVendas.resources
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.Properties.Resources.resources
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.csproj.GenerateResource.cache
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.csproj.CoreCompileInputs.cache
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\bin\Debug\BacanudosApp.exe.config
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\bin\Debug\BacanudosApp.exe
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\bin\Debug\BacanudosApp.pdb
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.csproj.CopyComplete
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.exe
+C:\Users\Diniz\Desktop\BacanudosApp\BacanudosApp\obj\Debug\BacanudosApp.pdb
