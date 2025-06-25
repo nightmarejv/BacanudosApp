@@ -7,12 +7,7 @@ O sistema é simples, funcional e voltado para fins didáticos, permitindo a ges
 ---
 
 ## 📷 Imagens do Sistema
-
-> Você pode colocar suas capturas de tela aqui usando o seguinte formato:
-
 ```markdown
-
-
 ![baca1](https://github.com/user-attachments/assets/f618b7b4-6500-4d24-8e93-4b963606cdd2)
 ![baca4](https://github.com/user-attachments/assets/3b153d25-a30f-41d7-95c4-c56c40bf77ac)
 ![baca3](https://github.com/user-attachments/assets/99bc1dc0-4e28-4d55-bfa4-b473d4a0125b)
